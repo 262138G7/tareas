@@ -14,6 +14,7 @@ import org.junit.jupiter.api.Test;
  */
 class ContactoTests {
 
+
     // Comprueba que el constructor guarda los datos y que los getters los devuelven.
     @Test
     void guardaLosDatos() {
